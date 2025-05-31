@@ -1,6 +1,7 @@
 # AI-Powered Local Photo Organizer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **Organize your digital photo collection automatically and privately on your local machine!**
 
 This standalone desktop AI agent intelligently categorizes your photos from a specified local folder into a structured album/folder hierarchy. It uses parameters like date taken, location (derived from GPS data), and recognized faces – all without uploading your precious memories to the cloud.
